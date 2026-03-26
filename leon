@@ -1,0 +1,77 @@
+Create a modern, high-converting landing page for a German door-to-door sales agency in the telecommunications (fiber internet) niche.
+
+Goal of the page: Recruit new sales representatives.
+
+Style:
+- Dark, premium, minimalistic design (black background, white text, strong contrasts)
+- Clean layout similar to high-performance sales agencies
+- Mobile optimized
+- Strong, bold headlines
+- Use modern fonts and smooth animations
+
+Structure of the page:
+
+1. HERO SECTION
+Headline: "Wir machen aus Gesprächen Abschlüsse."
+Subheadline: "Werde Teil eines Vertriebsteams, das Leistung belohnt und dir echten Aufstieg ermöglicht."
+CTA Button: "Jetzt in 60 Sekunden bewerben"
+
+2. SOCIAL PROOF
+Show stats like:
+- 5000+ Neukunden
+- 20+ Vertriebspartner
+- 100+ Projekte
+
+3. RECRUITING SECTION
+Text:
+"Bei uns zählt kein Lebenslauf. Bei uns zählt Leistung.
+Egal ob Anfänger oder Vertriebler – wir zeigen dir, wie du konstant Abschlüsse machst und echtes Geld verdienst."
+
+4. SYSTEM / VALUES
+Bullet points:
+- Klare Prozesse
+- Ständiges Training
+- Performance Tracking
+- Starkes Team
+
+5. HOW IT WORKS
+Steps:
+1. Gebiet wird geplant
+2. Du bekommst dein Training
+3. Du gehst raus und closst
+4. Wir optimieren gemeinsam
+
+6. BENEFITS
+- Hohe Provisionen
+- Schneller Aufstieg
+- Mentoring
+- Klare Struktur
+- Kein Bullshit
+
+7. FINAL CTA
+"Jetzt bewerben und Teil des Teams werden"
+Button: "Jetzt bewerben"
+
+8. APPLICATION FORM
+Fields:
+- Name
+- Telefonnummer
+- Alter
+- Erfahrung im Vertrieb (optional)
+- Button: "Absenden"
+
+Technical requirements:
+- Use HTML, CSS, and JavaScript
+- Responsive design (mobile-first)
+- Smooth scrolling
+- Simple animations (fade-in, hover effects)
+- Clean and structured code
+- Use Flexbox or Grid
+
+Optional:
+- Add subtle glow effects
+- Add modern button hover animations
+- Add section transitions
+
+Output:
+Provide full working code in one file (HTML with embedded CSS and JS)
